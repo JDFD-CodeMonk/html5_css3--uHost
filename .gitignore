@@ -1,0 +1,5 @@
+# ignore all files ending in .log
+*.log
+
+# ignore all .DS_Store macOS files
+*.DS_Store
